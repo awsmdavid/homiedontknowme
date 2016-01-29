@@ -7756,7 +7756,7 @@ button::-moz-focus-inner {
 /* line 50, ../bower_components/foundation/scss/foundation/components/_clearing.scss */
 .clearing-thumbs li, [data-clearing] li {
   float: left;
-  margin-right: 10px;
+/*  margin-right: 10px;*/
 }
 /* line 55, ../bower_components/foundation/scss/foundation/components/_clearing.scss */
 .clearing-thumbs[class*="block-grid-"] li, [data-clearing][class*="block-grid-"] li {
