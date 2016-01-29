@@ -11403,12 +11403,12 @@ meta.foundation-mq-topbar {
   padding: 0 0.9375rem;
   width: 75%;
 }
-/* line 230, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
+/* line 230, ../bower_components/foundation/scss/foundation/components/_top-bar.scss 
 .top-bar .toggle-topbar {
   position: absolute;
   right: 0;
   top: 0;
-}
+}*/
 /* line 235, ../bower_components/foundation/scss/foundation/components/_top-bar.scss */
 .top-bar .toggle-topbar a {
   color: #002966;
